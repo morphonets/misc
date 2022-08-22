@@ -1,0 +1,6 @@
+
+ide-demos/.settings/
+ide-demos/.classpath
+ide-demos/.project
+ide-demos/target/
+*.class
